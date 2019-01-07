@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Yii2 i18n Javascript Extension.
 ===============================
 Yii2 i18n Javascript Extension. Support for translations from javascript using the native i18n component of Yii2.
@@ -29,3 +30,7 @@ Once the extension is installed, simply use it in your code by  :
 
 ```php
 <?= \opencode506\AutoloadExample::widget(); ?>```
+=======
+# Yii2 i18n Javascript Extension.
+Yii2 i18n Javascript Extension. Support for translations from javascript using the native i18n component of Yii2.
+>>>>>>> 489f67668e7c225db65556c54cb32941b370a886
