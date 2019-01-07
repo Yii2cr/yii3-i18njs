@@ -17,5 +17,7 @@
         "psr-4": {
             "opencode506\\": ""
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
