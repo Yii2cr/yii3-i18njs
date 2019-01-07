@@ -1,2 +1,2 @@
 # yii3-i18njs
-Support of i18n for javascript in Yii2
+Yii2 i18n Javascript Extension. Support for translations from javascript using the native i18n component of Yii2.
