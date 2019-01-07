@@ -1,0 +1,21 @@
+{
+    "name": "opencode506/yii2-i18njs",
+    "description": "Yii2 i18n Javascript Extension. Support for translations from javascript using the native i18n component of Yii2.",
+    "type": "yii2-extension",
+    "keywords": ["yii2"," extension"," i18n"," javascript"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Open Code 506",
+            "email": "opencode506@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "opencode506\\": ""
+        }
+    }
+}
